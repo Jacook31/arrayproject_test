@@ -148,7 +148,7 @@ int main(void)
         // 입력값 체크
         if (num < 1 || num >6)
         {
-            printf("\n입력밧이 잘못되었습니다.\n");
+            printf("\n입력값이 잘못되었습니다.\n");
             continue;
         }
 
@@ -209,8 +209,6 @@ int main(void)
 
     }
     
-
-
     return 0;
 }
 
