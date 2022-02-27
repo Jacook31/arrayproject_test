@@ -79,21 +79,18 @@ int main(void)
     // typedef int 정수;  
     // 정수 정수변수 = 3;          // int 정수변수 = 3;
     // printf("정수변수 : %d\n\n", 정수변수);
-    // 위 값은 가능하지만 vscode 오류
-    
+    // 위 값은 가능하지만 vscode 오류  
     // typedef struct GameInfo 게임정보;
     // 게임정보 game1;
     // game1.name = "한글 게임";
     // game1.year = 2015;
     // game1.price = 100;
     // game1.company = "한글 회사";
-
     // GAME_INFO game2;
     // game2.name = "한글 게임2"
     // game2.year = 2015;
     // game2.price = 100;
     // game2.company = "한글 회사2";
-
     //  struct GameInfomation game3;
     //  game3.name = "한글 게임3"
 
