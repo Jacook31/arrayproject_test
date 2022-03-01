@@ -1,5 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+#include <conio.h>  //getch()를 쓰기위한 헤더파일
+#include <string.h> //strcmp를 쓰기위한 헤더파일
 
 // 비밀번호를 입력받는다.
 // 비밀번호가 맞는경우 텍스트를 작성할수 있게 한다.
